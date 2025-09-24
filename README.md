@@ -1,6 +1,7 @@
 # CSE443 - Bioinformatics (Summer 2025)
 
 ## Course Information
+
 - **Course Name:** CSE443 - Bioinformatics
 - **Semester:** Summer 2025
 - **University:** BRAC University
@@ -58,6 +59,8 @@ This repository contains my coursework and materials for CSE443 Bioinformatics c
 │       ├── CSE_443__14_Neural_Networks.pdf
 │       ├── CSE_443__15_Network_Analysis.pdf
 │       └── Additional resources (HMM, Viterbi examples, etc.)
+├── Outline/
+│   └── Course_Outline_CSE443_Summer2025.md  # Official course outline
 ├── Practice+Notes/
 │   ├── mid/                   # Mid-term preparation notes
 │   ├── final/                 # Final term preparation notes
@@ -71,24 +74,30 @@ This repository contains my coursework and materials for CSE443 Bioinformatics c
 ## 🧬 Key Topics Covered
 
 ### Mid-Term Portion
+
 1. **Introduction to Bioinformatics**
+
    - Basic concepts and applications
    - DNA, RNA, and protein structures
 
 2. **Origin of Replication**
+
    - Finding replication origins in genomes
    - DnaA boxes and statistical analysis
 
 3. **Motif Search**
+
    - Pattern finding in biological sequences
    - Gibbs sampling and randomized algorithms
 
 4. **Genome Assembly**
+
    - De Bruijn graphs
    - Eulerian paths and cycles
    - Overlap-layout-consensus algorithms
 
 5. **String Matching Algorithms**
+
    - Naive exact matching
    - Efficient pattern matching for read mapping
    - Quality scores and FASTQ format
@@ -99,27 +108,33 @@ This repository contains my coursework and materials for CSE443 Bioinformatics c
    - Statistical methods for expression data
 
 ### Final-Term Portion
+
 7. **Sequence Alignment**
+
    - Dynamic programming algorithms
    - Global and local alignment (Needleman-Wunsch, Smith-Waterman)
    - Multiple sequence alignment
 
 8. **Phylogenetic Analysis**
+
    - Tree construction algorithms
    - Distance-based and character-based methods
    - Evolutionary relationships
 
 9. **Hidden Markov Models (HMMs)**
+
    - Viterbi algorithm
    - Forward-backward algorithm
    - Gene finding and sequence annotation
 
 10. **Machine Learning in Bioinformatics**
+
     - Supervised learning techniques
     - Classification and clustering
     - Feature selection in biological data
 
 11. **Neural Networks**
+
     - Deep learning applications in genomics
     - CNN and RNN for sequence analysis
 
@@ -131,7 +146,7 @@ This repository contains my coursework and materials for CSE443 Bioinformatics c
 ## 🛠️ Technologies and Tools Used
 
 - **Programming Languages:** Python, R
-- **Libraries:** 
+- **Libraries:**
   - NumPy, Pandas for data manipulation
   - Matplotlib, Seaborn for visualization
   - Biopython for biological sequence analysis
@@ -143,19 +158,23 @@ This repository contains my coursework and materials for CSE443 Bioinformatics c
 ## 📝 Assignments and Projects
 
 ### Assignment 1
+
 - **Problem 1:** Motif finding using Gibbs sampling algorithm
 - **Problem 2:** Genome assembly using De Bruijn graphs
 
 ### Assignment 2
+
 - **Problem 1:** Sequence alignment with affine gap penalties
 - **Problem 2:** Hidden Markov Model implementation (Viterbi algorithm)
 
 ### Term Project
+
 Comprehensive bioinformatics analysis project covering multiple algorithms and real biological data analysis.
 
 ## 📚 Study Materials
 
 All notes and study materials in this repository are **personally prepared** by me during the course. They include:
+
 - Detailed algorithm explanations
 - Implementation examples
 - Problem-solving strategies
@@ -164,6 +183,7 @@ All notes and study materials in this repository are **personally prepared** by 
 ## 🏆 Learning Outcomes
 
 By completing this course, I have gained expertise in:
+
 - Fundamental bioinformatics algorithms and their implementations
 - Analysis of biological sequences (DNA, RNA, proteins)
 - Statistical methods for biological data
@@ -185,10 +205,11 @@ This repository is for educational purposes. Please refer to BRAC University's a
 ## 📧 Contact
 
 **Fahad Nadim Ziad**
+
 - Email: fahad.nadim.ziad@g.bracu.ac.bd
 - Student ID: 24341216
 - Institution: BRAC University, Department of Computer Science and Engineering
 
 ---
 
-*This repository represents my journey through the fascinating world of computational biology and bioinformatics algorithms during Summer 2025 at BRAC University.*
+_This repository represents my journey through the fascinating world of computational biology and bioinformatics algorithms during Summer 2025 at BRAC University._
