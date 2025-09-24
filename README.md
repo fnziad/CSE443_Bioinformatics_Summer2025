@@ -27,8 +27,6 @@
   - PhD, Griffith University, Australia, 2014
 - **Contact:**
   - Email: swakkhar.shatabda@bracu.ac.bd
-  - Room: 4G#28
-- **Counselling Time:** Sun-Mon-Tue-Wed
 - **Research Interests:**
   - Applied Machine Learning
   - Artificial Intelligence Search
