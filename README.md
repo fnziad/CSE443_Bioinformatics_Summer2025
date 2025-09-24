@@ -1,4 +1,4 @@
-# CSE443 - B## 👨‍🏫 Course ## 📖 Course Overviewnstructoroinformatics (Summer 2025)
+# CSE443 - Bioinformatics (Summer 2025)
 
 ## Course Information
 
@@ -17,14 +17,15 @@
 - **Student ID:** 24341216
 - **Email:** fahad.nadim.ziad@g.bracu.ac.bd
 
-## �‍🏫 Course Instructor
+## 👨‍🏫 Course Instructor
 
 **Professor Swakkhar Shatabda**
+
 - **Position:** Professor, Department of Computer Science and Engineering
-- **Education:** 
+- **Education:**
   - BSc in CSE, BUET 2007
   - PhD, Griffith University, Australia, 2014
-- **Contact:** 
+- **Contact:**
   - Email: swakkhar.shatabda@bracu.ac.bd
   - Room: 4G#28
 - **Counselling Time:** Sun-Mon-Tue-Wed
@@ -38,9 +39,11 @@
 This repository contains my coursework and materials for CSE443 Bioinformatics course at BRAC University.
 
 ### Course Catalog Description
+
 Introduction to molecular biology and genetics: cell structure, central dogma, regulation of gene expression, Mendel's laws; Sequencing based assays: RNA-seq, ChIP-seq; Genome assembly; Sequence alignment and multiple sequence alignment: Needleman-Wunsch algorithm, Smith-Waterman algorithm; Phylogenetics: neighbor joining, statistical phylogenetics; Biological Databases: gene ontology, protein and nucleotide databases, data retrieval; Genome annotation: gene finding, regulatory motifs; Gene expression analysis: clustering, classification; Association Mapping; Single Cell RNA-Seq: challenges and applications; Structure, alignment and function prediction of RNA and Proteins; Protein Translational Modifications; Protein-protein interactions (PPI): introduction, experimental detection, prediction, dynamic PPI, PPI network; Drug design: docking and binding; Epigenetics; Gene Editing; Topics in population genetics: mutation, fixation, selection, drift, migration; Systems biology: pathways, networks.
 
 ### Course Objectives
+
 - Understand the fundamentals of molecular biology, genetics, and gene regulation
 - Learn core sequencing technologies (e.g., RNA-seq, ChIP-seq) and genome assembly methods
 - Apply sequence alignment and phylogenetic techniques to analyze biological data
@@ -50,23 +53,26 @@ Introduction to molecular biology and genetics: cell structure, central dogma, r
 - Examine advanced topics including single-cell RNA-seq, epigenetics, gene editing, and systems biology
 
 ### Course Outcomes
-| # | Course Outcome | Program Outcome |
-|---|---|---|
-| CO1 | Apply fundamental biological concepts and computational methods to analyze DNA, RNA, and protein sequences | b |
-| CO2 | Utilize bioinformatics tools and databases (e.g., BLAST, GenBank, UniProt) for sequence alignment, annotation, and functional prediction | e |
-| CO3 | Interpret results from genome assembly, phylogenetic analysis, and structural bioinformatics to solve biological problems | d |
-| CO4 | Design and implement basic pipelines for high-throughput biological data analysis using scripting languages and statistical approaches | c |
+
+| #   | Course Outcome                                                                                                                           | Program Outcome |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| CO1 | Apply fundamental biological concepts and computational methods to analyze DNA, RNA, and protein sequences                               | b               |
+| CO2 | Utilize bioinformatics tools and databases (e.g., BLAST, GenBank, UniProt) for sequence alignment, annotation, and functional prediction | e               |
+| CO3 | Interpret results from genome assembly, phylogenetic analysis, and structural bioinformatics to solve biological problems                | d               |
+| CO4 | Design and implement basic pipelines for high-throughput biological data analysis using scripting languages and statistical approaches   | c               |
 
 ### Assessment Structure
-| Assessment Tool | Weightage | Details |
-|---|---|---|
-| Attendance | 5% | Minimum 70% attendance required to sit for final exam |
-| Assignments | 15% | 2 Programming Assignments |
-| Quiz | 15% | Best 3 out of 4-5 quizzes (No makeup for missed quizzes) |
-| Midterm Exam | 30% | Comprehensive exam covering pre-midterm topics |
-| Final Exam | 35% | Comprehensive exam covering post-midterm topics |
+
+| Assessment Tool | Weightage | Details                                                  |
+| --------------- | --------- | -------------------------------------------------------- |
+| Attendance      | 5%        | Minimum 70% attendance required to sit for final exam    |
+| Assignments     | 15%       | 2 Programming Assignments                                |
+| Quiz            | 15%       | Best 3 out of 4-5 quizzes (No makeup for missed quizzes) |
+| Midterm Exam    | 30%       | Comprehensive exam covering pre-midterm topics           |
+| Final Exam      | 35%       | Comprehensive exam covering post-midterm topics          |
 
 **Important Notes:**
+
 - Minimum 70% attendance required to sit for final exam
 - Late assignment submissions may receive grade penalties
 - Follow department procedure for missed exams
@@ -122,36 +128,40 @@ Introduction to molecular biology and genetics: cell structure, central dogma, r
 ## 📋 Course Outline (Professor Swakkhar Shatabda)
 
 ### Pre-Midterm Topics
-| Lecture | Topic | Course Outcome |
-|---------|-------|----------------|
-| 1 | Introduction to Bioinformatics | CO1 |
-| 2 | Sequence Alignment, Dynamic Programming | CO1, CO2 |
-| 3 | Hidden Markov Models, HMM Profile, Coding Regions | CO3 |
-| 4 | Genome Assembly: Read Mapping, Variant Calling, De-Bruijn Graphs, Suffix Trees | CO2, CO4 |
-| 5 | Gene Expression Analysis: Clustering, Visualization, Dimensionality Reduction | CO2, CO4 |
-| 6 | Single Cell RNA-Seq and Spatial Transcriptomics | CO2, CO4 |
+
+| Lecture | Topic                                                                          | Course Outcome |
+| ------- | ------------------------------------------------------------------------------ | -------------- |
+| 1       | Introduction to Bioinformatics                                                 | CO1            |
+| 2       | Sequence Alignment, Dynamic Programming                                        | CO1, CO2       |
+| 3       | Hidden Markov Models, HMM Profile, Coding Regions                              | CO3            |
+| 4       | Genome Assembly: Read Mapping, Variant Calling, De-Bruijn Graphs, Suffix Trees | CO2, CO4       |
+| 5       | Gene Expression Analysis: Clustering, Visualization, Dimensionality Reduction  | CO2, CO4       |
+| 6       | Single Cell RNA-Seq and Spatial Transcriptomics                                | CO2, CO4       |
 
 **📝 Midterm Exam**
 
 ### Post-Midterm Topics
-| Lecture | Topic | Course Outcome |
-|---------|-------|----------------|
-| 7 | Phylogenetic Trees | CO3 |
-| 8 | Biological Networks | CO4 |
-| 9 | Gene Ontology and Biological Pathways | CO4 |
-| 10 | Evolutionary Genomics, Comparative Genomics | CO4 |
-| 11 | Representation Learning, Contrastive Learning and Alignment in Bioinformatics | CO1, CO4 |
-| 12 | Drug and Protein Structures, Proteomics, Generative AI | CO3 |
+
+| Lecture | Topic                                                                         | Course Outcome |
+| ------- | ----------------------------------------------------------------------------- | -------------- |
+| 7       | Phylogenetic Trees                                                            | CO3            |
+| 8       | Biological Networks                                                           | CO4            |
+| 9       | Gene Ontology and Biological Pathways                                         | CO4            |
+| 10      | Evolutionary Genomics, Comparative Genomics                                   | CO4            |
+| 11      | Representation Learning, Contrastive Learning and Alignment in Bioinformatics | CO1, CO4       |
+| 12      | Drug and Protein Structures, Proteomics, Generative AI                        | CO3            |
 
 **📝 Final Exam**
 
 ## 📚 Official Textbooks and References
 
 **Primary Textbooks:**
+
 - [B1] Bioinformatics Algorithms: An Active Learning Approach Vol I&II - Pavel A. Pevzner and Phillip Compeau
 - [B2] Genome-Scale Algorithm Design: Bioinformatics in the Era of High-Throughput Sequencing, Second Edition - Makinen et al.
 
 **Additional References:**
+
 - Understanding Bioinformatics - Jeremy Baum and Marketa J. Zvelebil
 - A First Course in Systems Biology - Eberhard Voit
 
